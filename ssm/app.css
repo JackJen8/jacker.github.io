@@ -206,8 +206,8 @@ page {
 
 .content .qrCode,
 .content .qrCode view {
-    height: 51.2vw;
-    width: 51.2vw
+    height: 60vw;
+    width: 60vw
 }
 
 .content .qrCode text {
